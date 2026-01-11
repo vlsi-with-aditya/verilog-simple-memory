@@ -33,3 +33,8 @@ modeling real on-chip memory behavior.
 
 ```verilog
 reg [3:0] mem [0:3];
+
+
+## Waveform Output
+
+![Waveform](waveform.png)
