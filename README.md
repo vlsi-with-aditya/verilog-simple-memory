@@ -35,6 +35,4 @@ modeling real on-chip memory behavior.
 reg [3:0] mem [0:3];
 
 
-## Waveform Output
 
-![Waveform](waveform.png)
